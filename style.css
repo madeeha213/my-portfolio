@@ -1,0 +1,85 @@
+/* Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background: #fafafa;
+  color: #333;
+  line-height: 1.6;
+}
+
+/* Header */
+header {
+  background: #fff;
+  text-align: center;
+  padding: 3rem 1rem;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}
+
+header h1 {
+  font-size: 2.5rem;
+  color: #222;
+}
+
+header .tagline {
+  font-size: 1.2rem;
+  color: #777;
+  margin-top: 0.5rem;
+}
+
+/* Sections */
+section {
+  max-width: 1000px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+}
+
+section h2 {
+  font-size: 1.8rem;
+  margin-bottom: 1rem;
+  color: #444;
+}
+
+/* Services */
+.services ul {
+  list-style: none;
+}
+
+.services li {
+  margin-bottom: 0.8rem;
+}
+
+/* Portfolio */
+.portfolio .grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.5rem;
+  margin-top: 1.5rem;
+}
+
+.portfolio img {
+  width: 100%;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.05);
+}
+
+.portfolio figcaption {
+  margin-top: 0.5rem;
+  font-size: 0.95rem;
+  text-align: center;
+  color: #555;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  padding: 2rem 1rem;
+  background: #fff;
+  color: #666;
+  font-size: 0.9rem;
+  border-top: 1px solid #eee;
+}
