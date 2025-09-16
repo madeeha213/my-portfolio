@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Madeeha Iftikhar | Graphic Designer</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>Madeeha Iftikhar</h1>
+  <p>Graphic Designer – Invitations, Logos, eBooks</p>
+</header>
+
+<nav>
+  <a href="#logo">Logos</a>
+  <a href="#gig">Gigs</a>
+  <a href="#ebook">eBooks</a>
+  <a href="#invitation">Invitations</a>
+</nav>
+
+<section id="logo">
+  <h2>Logo Designs</h2>
+  <div class="gallery">
+    <img src="logo/logo1.jpg" alt="Logo 1">
+    <img src="logo/logo2.jpg" alt="Logo 2">
+  </div>
+</section>
+
+<section id="gig">
+  <h2>Gig Images</h2>
+  <div class="gallery">
+    <img src="gig/gig1.jpg" alt="Gig 1">
+  </div>
+</section>
+
+<section id="ebook">
+  <h2>eBook Designs</h2>
+  <div class="gallery">
+    <img src="ebook/ebook1.jpg" alt="eBook 1">
+  </div>
+</section>
+
+<section id="invitation">
+  <h2>Invitation Cards</h2>
+  <div class="gallery">
+    <img src="invitation/inv1.jpg" alt="Invitation 1">
+  </div>
+</section>
+
+<footer>
+  © 2025 Madeeha Iftikhar
+</footer>
+
+</body>
+</html>
