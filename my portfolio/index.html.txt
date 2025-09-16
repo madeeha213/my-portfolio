@@ -23,8 +23,11 @@
 <section id="logo">
   <h2>Logo Designs</h2>
   <div class="gallery">
-    <img src="logo/logo1.jpg" alt="Logo 1">
-    <img src="logo/logo2.jpg" alt="Logo 2">
+    <img src="logo/logo (1).jpg" alt="Logo 1">
+    <img src="logo/logo (2).jpg" alt="Logo 2">
+<img src="logo/logo (3).jpg" alt="Logo 2">
+<img src="logo/logo (4).jpg" alt="Logo 2">
+<img src="logo/logo (5).jpg" alt="Logo 2">
   </div>
 </section>
 
@@ -55,3 +58,4 @@
 
 </body>
 </html>
+
